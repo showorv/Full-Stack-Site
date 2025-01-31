@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: rgb(29, 29, 29);
+    color: white;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.toastBody {
+    font-family: "Atlas Grotesk Web", Arial, Helvetica, sans-serif;
+    
+    font-size: 1.5rem ;
+  }
